@@ -1,9 +1,10 @@
 # Ahoj, jsem MK
 
 **Vývojář** s přesahem od systémového programování po webové technologie.  
-**Portfolio:** [mk-forge.netlify.app](https://mk-forge.netlify.app)
 
----
+## Portfolio
+
+[mk-forge.netlify.app](https://mk-forge.netlify.app)
 
 ## Moje nejpoužívanější jazyky
 
