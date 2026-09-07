@@ -1,6 +1,6 @@
-# 👋 Ahoj, jsem MK
+# 👋 Ahoj!
 
-**Vývojář** s přesahem od systémového programování po webové technologie.  
+Jsem **vývojář** s přesahem od systémového programování po webové technologie.
 
 ## 🌐 Portfolio
 
