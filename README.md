@@ -2,9 +2,9 @@
 
 Jsem **vývojář** s přesahem od systémového programování po webové technologie.
 
-## 🌐 Portfolio
+## 🌐 Web
 
-[mk-forge.netlify.app](https://mk-forge.netlify.app)
+[Portfolio](https://portfolio.mk-forge.workers.dev/)
 
 ## 📊 Moje nejpoužívanější jazyky
 
